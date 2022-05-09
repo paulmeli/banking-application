@@ -1,0 +1,10 @@
+1000 1111 John Smith 2000.5
+1001 1234 Sarah Johnson 10000
+1002 2222 Will Smith 7500.25
+1003 5678 Michelle Obama 3525.75
+1004 3333 George Washington 15000
+1005 4321 Abe Lincoln 7777.77
+1006 4444 Chris Columbus 12000
+1007 8765 Oprah Winfrey 20000
+1008 5555 Sherlock Holmes 1500
+1009 6666 John Watson 7575.75
